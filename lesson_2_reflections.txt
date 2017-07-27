@@ -1,0 +1,8 @@
+What happens when you initalize a repository? Why do you need to do it?
+    You create a hidden .git file, which doesnt interact with users to track the status of other files in the directories. You need to it
+    so that you can start tracking commits, i.e. saved states, of the thing you are working on.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+    It is the inbetween area. the staging area is a pre-requisite for a file being saved in a commit. Practically, files are no different
+    having been added or not. It offers the benefit of clarity, and only updating the files you need. Perhaps some files are completely
+    finished and do not need to be touched. 
