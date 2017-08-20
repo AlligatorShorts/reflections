@@ -9,3 +9,8 @@ What is the result of merging two branches together? Why do we represent it in t
     The result, if it goes well, is that you have a working branch tip which has two parents and successfully adds the productive changes
     from both branches to it. It is represented like this because it is an intertwining of branches.
 
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+    The automatic merge is rather simple and will often require manual oversight, especially if there are simultaneous changes. 
+    however it can save you aot of time, especially with small and logical changes which just need to be added, for example when 
+    merging master into a side-branch.
+
