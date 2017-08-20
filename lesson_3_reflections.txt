@@ -4,3 +4,8 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualise the branch structure? 
     The diagrams help you see the structure of branches better than words ever could. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+    The result, if it goes well, is that you have a working branch tip which has two parents and successfully adds the productive changes
+    from both branches to it. It is represented like this because it is an intertwining of branches.
+

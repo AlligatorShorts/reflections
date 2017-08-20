@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
     It is the inbetween area. the staging area is a pre-requisite for a file being saved in a commit. Practically, files are no different
     having been added or not. It offers the benefit of clarity, and only updating the files you need. Perhaps some files are completely
     finished and do not need to be touched. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+    the staging area is an area easily seen with which you can check exactly what you are going to commit, and then decide if it is only
+    one logical change. this makes things very clear for human users.
