@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+    a remote repository would act as good backup in case of local corruption of files. it also allows you (and others) to work on the
+    project without geographical hinderance. Finally it centralises all your work.
+    
