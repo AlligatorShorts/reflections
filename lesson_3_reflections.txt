@@ -7,4 +7,11 @@ Why might you want to always pull changes manually rather than having Git automa
     (human error). Two, you might not being working on an up-to-date part of the program, or off in a branch. Three, the new updates 
     might clash or hinder parts you've been working, and slow you down. 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of the other?
+    Forks are usually someone else's work, which you like/want/need but will modify. However, in 1) an efford to credit them and 2)
+    with their knowledge that you are usuing their work, you can fork the work. this works oly via github. Clones are just copying a
+    repository, and can be done within computer (i.e. changing file location) and computer to computer. This allows you to have an exact
+    copy of the clone. Branches are seperations of the same work. They could be called 'alternative commits', in which changes are made
+    independant of the master (branch) and create a different program.
+  
     
