@@ -19,4 +19,12 @@ What is the benefit of having a copy of the last known state of the remote store
     allows a merge to take place locally and be decided on by the inidividual before being pushed to the remote and affecting all
     collabarators. 
 
+How would you collaborate without using Git or Github? What would be easier, and what would be harder?
+    This a hard question to answer without selecting another collaboration method todirectly compare it with, as those all have their
+    pros and cons too. Github works well and has clear communication tools. It isnt without its faults and is likely not the best system
+    for communication - a messaging app is quicker and more to the point. But it allows your siginificant control over your projects. 
+    There are also several things unique to github which are powerful - forking, pull requests, etc (other systems will have alternatives
+    but these work well). 
+ 
+
     
