@@ -14,4 +14,9 @@ Describe the differences between forks, clones, and branches. When would you use
     copy of the clone. Branches are seperations of the same work. They could be called 'alternative commits', in which changes are made
     independant of the master (branch) and create a different program.
   
+What is the benefit of having a copy of the last known state of the remote stored locally?
+    this could minimise de-syncing errors so that you dont huge gaps of time between knowing the last known state of the remote. it also
+    allows a merge to take place locally and be decided on by the inidividual before being pushed to the remote and affecting all
+    collabarators. 
+
     
